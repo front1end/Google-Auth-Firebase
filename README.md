@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Firebase link
  
-console.firebase.google.com
+https://console.firebase.google.com
 
 ## Available Scripts
 
